@@ -13431,14 +13431,14 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 @media (max-width: 991px) {
   .main-slider-two__title {
-    font-size: 80px;
+    font-size: 65px;
     line-height: 84px;
   }
 }
 @media (max-width: 767px) {
   .main-slider-two__title {
-    font-size: 26px;
-    line-height: 52px;
+    font-size: 40px;
+    line-height: 60px;
     margin-bottom: 15px;
   }
 }
