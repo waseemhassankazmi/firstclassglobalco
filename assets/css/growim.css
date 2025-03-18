@@ -13400,9 +13400,9 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .main-slider-two__title {
   color: var(--growim-white, #fff);
-  font-size: 110px;
+  font-size: 80px;
   font-weight: 800;
-  line-height: 122px;
+  line-height: 100px;
   text-transform: capitalize;
   display: inline-block;
   overflow: hidden;
@@ -13413,13 +13413,13 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .main-slider-two__title span {
 /*  font-size: 90px;*/
-  font-size: 50px;
+  font-size: 40px;
   line-height: 92px;
   font-weight: 600;
 }
 @media (max-width: 767px) {
   .main-slider-two__title span {
-    font-size: 45px;
+    font-size: 20px;
     line-height: 48px;
   }
 }
@@ -13437,7 +13437,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 @media (max-width: 767px) {
   .main-slider-two__title {
-    font-size: 50px;
+    font-size: 26px;
     line-height: 52px;
     margin-bottom: 15px;
   }
