@@ -11017,7 +11017,7 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 .package-one__item__price {
   position: relative;
-  font-size: 40px;
+  font-size: 30px;
   line-height: 1;
   font-weight: 600;
   color: var(--growim-black2, #00194C);
@@ -12100,7 +12100,8 @@ body.megamenu-popup-active .mobile-nav__content {
   border: none;
   outline: none;
   color: var(--growim-white, #fff);
-  display: flex;
+/*  display: flex;*/
+  display: none;
   align-items: center;
   justify-content: center;
   text-align: center;
