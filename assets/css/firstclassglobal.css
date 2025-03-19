@@ -15532,7 +15532,8 @@ body.megamenu-popup-active .mobile-nav__content {
 }
 @media (max-width: 767px) {
   .about-two__image-wrapper__shape-two {
-    display: none;
+/*    display: none;*/
+      display: block;
   }
 }
 .about-two__image {
