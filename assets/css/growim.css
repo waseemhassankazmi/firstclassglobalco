@@ -11071,7 +11071,7 @@ body.megamenu-popup-active .mobile-nav__content {
   display: flex;
   text-transform: capitalize;
   font-weight: 500;
-  font-size: 16px;
+  font-size: 13px;
   gap: 8px;
 }
 .package-one__item__list li i {
