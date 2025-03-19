@@ -13364,7 +13364,7 @@ body.megamenu-popup-active .mobile-nav__content {
   height: 100%;
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: cover;
   opacity: 0;
   animation-duration: 1s;
   animation-fill-mode: both;
