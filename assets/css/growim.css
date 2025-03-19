@@ -18038,13 +18038,13 @@ body.megamenu-popup-active .mobile-nav__content {
   animation-name: fadeInUp;
 }
 .portfolio-two__item__title {
-  font-size: 20px;
+  font-size: 17px;
   font-weight: 700;
   margin: 0 0 12px;
 }
 @media (max-width: 575px) {
   .portfolio-two__item__title {
-    font-size: 19px;
+    font-size: 13px;
   }
 }
 .portfolio-two__item__title a {
@@ -18059,7 +18059,7 @@ body.megamenu-popup-active .mobile-nav__content {
   color: var(--growim-primary, #635AD9);
 }
 .portfolio-two__item__cate {
-  font-size: 16px;
+  font-size: 13px;
   font-weight: 500;
   text-transform: capitalize;
   color: var(--growim-primary, #635AD9);
@@ -19837,7 +19837,7 @@ body.megamenu-popup-active .mobile-nav__content {
   .package-one__item__title_reccomended_was {
     position: absolute;
     top: -22px;
-    left: 34%;
+    left: 32%;
     background-color: var(--growim-primary, #635AD9);
     color: var(--growim-white, #fff);
     font-size: 14px;
