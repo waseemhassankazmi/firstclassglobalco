@@ -19831,3 +19831,22 @@ body.megamenu-popup-active .mobile-nav__content {
   position: relative;
 }
 /*# sourceMappingURL=growim.css.map */
+
+/*Waseem coding */
+@media (max-width: 768px) {
+  .package-one__item__title_reccomended_was {
+    position: absolute;
+    top: -22px;
+    left: 34%;
+    background-color: var(--growim-primary, #635AD9);
+    color: var(--growim-white, #fff);
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: capitalize;
+    /* clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 12% 50%); */
+    margin: 0;
+    padding: 15px 15px 15px 15px;
+    transition: all 400ms ease;
+    border-radius: 10px;
+}
+}
