@@ -11012,6 +11012,8 @@ body.megamenu-popup-active .mobile-nav__content {
   border-radius: 16px;
   padding: 4px;
   transition: all 400ms ease;
+/* waseem added for pricing */
+  height: 100%; 
 }
 .package-one__item__inner {
   width: 100%;
